@@ -1,0 +1,1 @@
+import math; print(math.factorial(int(input("Digite um valor para calcular o fatorial: "))))
